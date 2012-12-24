@@ -1,0 +1,5 @@
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler">
+  <link rel="stylesheet" href="${it.packageUrl}/uri/URI${it.manager.debug?'-min':''}.js" />
+  <!-- TODO: add st:comment tag and generate IE7 conditional comment -->
+  <!--[if IE 7]><link rel="stylesheet" href="/stylesheets/font-awesome-ie7.css"><![endif]-->
+</j:jelly>
