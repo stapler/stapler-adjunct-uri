@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.kohsuke.stapler</groupId>
   <artifactId>stapler-adjunct-uri</artifactId>
-  <version>1.8.1-1</version>
+  <version>1.8.1-2-SNAPSHOT</version>
   <name>URI.js</name>
   <url>https://github.com/medialize/URI.js</url>
 
